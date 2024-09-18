@@ -1,0 +1,56 @@
+Como transcrever vídeos do YouTube usando inteligência artificial
+Conheça quatro ferramentas para descomplicar a hora de transformar áudios em texto
+A transcrição de áudio para texto é uma tarefa que pode ser realizada por várias tecnologias de inteligência artificial (IA), incluindo algoritmos de reconhecimento de fala e processamento de linguagem natural. 
+As soluções podem variar em termos de precisão, idiomas suportados, capacidade de lidar com diferentes tipos de sotaques e ruídos de fundo, bem como a facilidade de integração em aplicativos e serviços.
+Conheça algumas ferramentas que podem facilitar o dia a dia.
+Como usar o ytscribe.com
+É um site e uma extensão usada para transcrever vídeos e áudios em texto. Sua interface é bem intuitiva.
+
+Acesse o site YTScribe.com;
+Cole o vídeo do YouTube que deseja transcrever;
+Clique em “Transcribe Video” e aguarde a transcrição ser finalizada.
+Como usar o Transkriptor
+Disponível em português, o Transkriptor é um software de transcrição online que converte áudio em texto usando inteligência artificial O Transkriptor fornece aplicativos para Android e iPhone, extensões do Google Chrome e também no desktop.
+Como usar o Transkriptor
+
+Disponível em português, o Transkriptor é um software de transcrição online que converte áudio em texto usando inteligência artificial O Transkriptor fornece aplicativos para Android e iPhone, extensões do Google Chrome e também no desktop.
+
+Para usá-lo, basta:
+
+Entre no site do aplicativo;
+É possível usá-lo sem criar uma conta. Se achar conveniente, crie uma nova conta ou iniciar sessão com o seu nome; 
+Depois de fazer login, você pode carregar o seu arquivo de vídeo ou áudio e a máquina de transcrição converterá o seu discurso em texto;
+Se está com um link do YouTube, clique em “converter áudio do YouTube ou nuvem;
+Clique em transcrever.
+Como usar o Summarize.tech
+O Summarize.tech é uma ferramenta parcialmente gratuita que usa o GPT-3, um algoritmo avançado de processamento de linguagem natural, e pode ser usada para resumir em texto links do YouTube. Não é informado o limite de transcrições diárias, e a versão paga custa US$ 10 por mês, com limite de 200 vídeos por mês.
+
+Ele não dará o texto completo, mas é bastante eficiente para extrair as principais ideias que estão em um vídeo longo. Ele costuma ser transcrito em inglês, mas é possível colocar o texto em outra aplicação de inteligência artificial, como o Chat GPT, para traduzir as informações.
+
+Para acessá-lo, basta:
+
+Acesse o site do Summarize.tech. Para transcrever um vídeo, não é necessário ter uma conta.
+Cole o link do vídeo do YouTube que você deseja transcrever na caixa de texto na página inicial.
+Clique no botão "Transcrever".
+O Summarize usará IA para transcrever o áudio do vídeo para texto.
+Como usar a YouTube Summarized
+
+É uma ferramenta impulsionada por IA, projetada para gerar resumos de vídeos do YouTube em forma de notas. Está disponível como uma extensão para Google Chrome, permitindo que os usuários resumam rapidamente qualquer vídeo do YouTube com um único clique. Assim como o Summarize.tech, os resumos são feitos em inglês e a ferramenta é parcialmente gratuita, com limitações de uso diário.
+
+A ferramenta utiliza processamento de linguagem natural e algoritmos de aprendizado profundo para extrair automaticamente as informações mais importantes do vídeo e criar um resumo conciso e preciso.
+
+O resultado é um resumo que captura os pontos principais do vídeo, sem a necessidade de processamento manual. Além disso, os resumos podem ser compartilhados com outras pessoas, permitindo uma colaboração e discussão fáceis.
+
+Para instalá-lo, basta: 
+Clique em “obter” no Chrome Web Store; uma caixa de diálogo abrirá e é só confirmar que deseja instalar a extensão;
+Quando entrar em qualquer vídeo no YouTube, irá aparecer um ícone com o logotipo da extensão;
+Clique no botão, que está ao lado do ícone de curtidas. Automaticamente, irá abrir uma nova página.
+Clique em “Summarize video”. Em instantes, o vídeo começa a ser transcrito em formato de resumo.
+A extensão gratuita YouTube Summary with ChatGPT está disponível para os navegadores Chrome, Microsoft Edge e Safari. Essa ferramenta permite resumir vídeos do YouTube usando o ChatGPT, possibilitando verificar o conteúdo de vídeos sem assisti-los.
+
+O limite é de 20 minutos de duração de vídeo devido à restrição de palavras do ChatGPT. Além de resumos, a extensão também faz transcrições, convertendo falas em texto. O tutorial mostra como instalar e usar a extensão.
+
+Qual é a precisão de transcrição de vídeo usando IA?
+A precisão da transcrição de vídeo usando IA pode variar dependendo da qualidade do som e da tecnologia usada. Algumas ferramentas de transcrição de vídeo usam tecnologia avançada de IA com alta precisão de transcrição que transcreve perfeitamente até mesmo frases longas.
+É importante notar que todas as ferramentas citadas não oferecem 100% de exatidão e podem cometer erros, especialmente se o áudio do vídeo não for claro. Lembre-se de revisar a transcrição e fazer quaisquer alterações que precisar.
+

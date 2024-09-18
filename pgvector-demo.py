@@ -6,14 +6,26 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 #from langchain.embeddings import OpenAIEmbeddings  #deprecated
 from langchain_community.embeddings import OpenAIEmbeddings
 from dotenv import load_dotenv
+#import os
+
+# Load Environment variables from .env
+load_dotenv()
+
+
+
+def main():
+    #load_dotenv()
+    documents = load_doc()
+    text_splitter(documents)
 
 def load_doc():
 
     load_dotenv()
-
     loader = TextLoader('transcrever_YouTube_video_IA.txt', encoding='utf-8')
-
     documents = loader.load()
+    #print(docs) #print the document object
+    #print(len(documents)) # 1 - we've olny read one file/document into the loader
+
     return documents
 
 def text_splitter(documents):
@@ -23,11 +35,6 @@ def text_splitter(documents):
     print(len(texts))
 
 if __name__=="__main__":
-    load_dotenv()
-    documents = load_doc()
-    text_splitter(documents)
-
-    #print(docs) #print the document object
-    #print(len(documents)) # 1 - we've olny read one file/document into the loader
+     main()
 
 
